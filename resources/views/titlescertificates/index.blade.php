@@ -1,0 +1,1 @@
+<!-- Blade template for titlesCertificates index -->
